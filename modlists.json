@@ -1,44 +1,44 @@
 [
   {
-    "title": "Licentia BLACK",
-    "description": "Still fucking and cutting heads, just faster.",
-    "author": "cacophony",
+    "title": "CharGrinn",
+    "description": "Visceral, Grim, & Simplistic.",
+    "author": "NotSafeForAdults64",
     "maintainers": [
-      "github/cacophony-wj"
+      "github/notsafeforadults64"
     ],
     "game": "skyrimspecialedition",
-    "official": true,
+    "official": false,
     "tags": [
-      "Official",
-      "Power Fantasy",
+      "Visceral",
+      "Grim",
+      "Apothecary",
       "Vokriinator",
-      "CGO",
+      "SCAR",
       "Creation Club",
-      "LotD",
-      "Performance"
+      "LotD"
     ],
-    "nsfw": true,
+    "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/cacophony-wj/licentia_black/main/images/Transparent-Background-2.png",
-      "readme": "https://github.com/cacophony-wj/licentia_black",
-      "download": "https://authored-files.wabbajack.org/Licentia BLACK.wabbajack_b764b6b2-ea2f-4494-a691-e45017d49bcd",
-      "machineURL": "licentia_black",
-      "discordURL": "https://discord.gg/jolly-coop"
+      "image": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/CharGrinn_GH01.png",
+      "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/CharGrinn.wabbajack_29f58e69-a3fc-4873-bcf4-2fa7ec73f12f",
+      "machineURL": "CharGrinn",
+      "discordURL": ""
     },
     "download_metadata": {
-      "Hash": "nxK12KHJzzk=",
-      "Size": 320421506,
-      "NumberOfArchives": 1238,
-      "SizeOfArchives": 129039680821,
-      "NumberOfInstalledFiles": 275075,
-      "SizeOfInstalledFiles": 213768867101
+      "Hash": "bPE2fUSQ0pE=",
+      "Size": 431257965,
+      "NumberOfArchives": 1612,
+      "SizeOfArchives": 134241177997,
+      "NumberOfInstalledFiles": 278711,
+      "SizeOfInstalledFiles": 263762530679
     },
-    "version": "5.6.4.7",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-03-16T01:13:05.2025578Z",
+    "version": "0.0.1.2",
+    "dateCreated": "2023-03-18T04:15:15Z",
+    "dateUpdated": "2023-03-24T03:10:15Z",
     "repositoryName": ""
   }
 ]
